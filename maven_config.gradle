@@ -1,0 +1,22 @@
+ext {
+
+    qtt_version = '1.0.0'
+    publishedGroupId = 'com.qttaudio'
+    website='https://www.qttaudio.com/'
+    siteUrl = 'https://github.com/qttaudio/sdk_release_video'
+    gitUrl = 'https://github.com/qttaudio/sdk_release_video'
+    projectUrl = 'https://github.com/qttaudio/sdk_release_video'
+    developerId = 'qttaudio'
+    developerName = 'qttaudio'
+    developerEmail = 'xing@qttaudio.com'
+
+    licenseName = 'The Apache Software License, Version 2.0'
+    licenseUrl = 'http ://www.apache.org/licenses/LICENSE-2.0.txt'
+    allLicenses = '["Apache-2.0"]'
+
+    bintrayName = 'qttvideo-sdk'
+    artifact = 'android-video-sdk'
+    libraryName = bintrayName
+    libraryDescription = 'Android real-time video&audio SDK'
+    libraryVersion = qtt_version
+}

@@ -1,0 +1,2 @@
+include ':qttvideo'
+rootProject.name = "sdk_release_video"
