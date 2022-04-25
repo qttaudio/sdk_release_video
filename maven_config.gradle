@@ -1,6 +1,6 @@
 ext {
 
-    qtt_version = '1.0.2'
+    qtt_version = '1.1.0'
     publishedGroupId = 'com.qttaudio'
     website='https://www.qttaudio.com/'
     siteUrl = 'https://github.com/qttaudio/sdk_release_video'
